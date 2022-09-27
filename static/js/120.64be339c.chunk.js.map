@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/icons/tokenSymbol/POLYGON.svg"],"names":["module","exports"],"mappings":"4GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/120.64be339c.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/POLYGON.dfe8b686.svg\";"],"sourceRoot":""}

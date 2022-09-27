@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[73],{1192:function(t,s,a){t.exports=a.p+"static/media/Discord.975aa444.svg"}}]);
-//# sourceMappingURL=73.7a01c8ed.chunk.js.map
