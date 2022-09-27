@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[132],{1251:function(t,s,n){t.exports=n.p+"static/media/superMAHA.9d8f50fc.svg"}}]);
+//# sourceMappingURL=132.226ba3c2.chunk.js.map
