@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[80],{1199:function(t,n,s){t.exports=s.p+"static/media/Medium.694b6d90.svg"}}]);
+//# sourceMappingURL=80.b1b8c79b.chunk.js.map

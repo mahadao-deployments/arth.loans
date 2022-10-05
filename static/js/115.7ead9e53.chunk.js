@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[115],{1234:function(t,n,s){t.exports=s.p+"static/media/HOPE.98beb16b.svg"}}]);
-//# sourceMappingURL=115.7ead9e53.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/icons/misc/BentoMenu.svg"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/59.541f4f6e.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/BentoMenu.8e503e7b.svg\";"],"sourceRoot":""}

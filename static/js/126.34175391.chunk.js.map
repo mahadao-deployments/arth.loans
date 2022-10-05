@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/icons/tokenSymbol/USDT.svg"],"names":["module","exports"],"mappings":"4GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/126.34175391.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/USDT.b2392022.svg\";"],"sourceRoot":""}

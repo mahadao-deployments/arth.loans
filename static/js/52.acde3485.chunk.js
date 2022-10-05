@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[52],{1171:function(n,t,a){n.exports=a.p+"static/media/YearnFinance.d65d6f81.svg"}}]);
-//# sourceMappingURL=52.acde3485.chunk.js.map

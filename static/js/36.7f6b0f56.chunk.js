@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[36],{1155:function(e,t,n){e.exports=n.p+"static/media/GreenCheck.0efca33e.svg"}}]);
-//# sourceMappingURL=36.7f6b0f56.chunk.js.map

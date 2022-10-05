@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[40],{1159:function(e,n,t){e.exports=t.p+"static/media/CreameFinance.199ae6b4.svg"}}]);
+//# sourceMappingURL=40.1ed88275.chunk.js.map
