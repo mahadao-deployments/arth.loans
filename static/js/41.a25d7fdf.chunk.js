@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[41],{1160:function(t,n,p){t.exports=p.p+"static/media/Cryption.268ab89b.svg"}}]);
-//# sourceMappingURL=41.a25d7fdf.chunk.js.map

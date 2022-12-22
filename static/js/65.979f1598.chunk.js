@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[65],{1184:function(t,e,n){t.exports=n.p+"static/media/DeleteFaded.f20d415f.svg"}}]);
-//# sourceMappingURL=65.979f1598.chunk.js.map
