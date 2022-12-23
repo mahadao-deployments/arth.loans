@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[32],{1217:function(t,n,p){t.exports=p.p+"static/media/ArrowTailUp.dd9009e4.svg"}}]);
-//# sourceMappingURL=32.1729717a.chunk.js.map

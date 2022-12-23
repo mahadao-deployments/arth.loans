@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/icons/tokenSymbol/WBTC.svg"],"names":["module","exports"],"mappings":"4GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/136.bf5bef64.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/WBTC.fdab79c3.svg\";"],"sourceRoot":""}

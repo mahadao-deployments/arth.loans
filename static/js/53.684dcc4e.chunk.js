@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[53],{1239:function(t,a,n){t.exports=n.p+"static/media/PancakeSwap.341f9773.svg"}}]);
+//# sourceMappingURL=53.684dcc4e.chunk.js.map

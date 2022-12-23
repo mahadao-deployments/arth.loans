@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[79],{1264:function(t,n,s){t.exports=s.p+"static/media/Gov.e3616212.svg"}}]);
-//# sourceMappingURL=79.5217226e.chunk.js.map

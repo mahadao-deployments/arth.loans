@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/icons/arrow/ArrowRight.svg"],"names":["module","exports"],"mappings":"2GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/28.dbeb875e.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/ArrowRight.8d5a1c4e.svg\";"],"sourceRoot":""}
