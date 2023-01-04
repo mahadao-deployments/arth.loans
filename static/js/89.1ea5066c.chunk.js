@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[89],{1275:function(t,e,n){t.exports=n.p+"static/media/Twitter.de3883bd.svg"}}]);
-//# sourceMappingURL=89.1ea5066c.chunk.js.map

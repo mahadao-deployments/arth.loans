@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/icons/tokenSymbol/BUSD.svg"],"names":["module","exports"],"mappings":"4GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/107.fe2cfcc6.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/BUSD.3ae2122c.svg\";"],"sourceRoot":""}

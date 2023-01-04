@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[45],{1231:function(n,t,s){n.exports=s.p+"static/media/CosmicFinance.d8cfe77a.svg"}}]);
-//# sourceMappingURL=45.98e40832.chunk.js.map

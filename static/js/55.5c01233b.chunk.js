@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[55],{1241:function(t,n,s){t.exports=s.p+"static/media/Polydex.a07cf840.svg"}}]);
-//# sourceMappingURL=55.5c01233b.chunk.js.map
