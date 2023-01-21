@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[124],{1314:function(t,s,e){"use strict";e.r(s),s.default=e.p+"static/media/MAHA-DAI-QLP.4134f38e.svg"}}]);
+//# sourceMappingURL=124.a98c966c.chunk.js.map

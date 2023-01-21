@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[133],{1326:function(t,s,a){"use strict";a.r(s),s.default=a.p+"static/media/USDTUSDC-ALP-S.9d2ea0c4.svg"}}]);
-//# sourceMappingURL=133.37e7262f.chunk.js.map

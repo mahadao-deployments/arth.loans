@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[48],{1241:function(t,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Curve.5a4bcbed.svg"}}]);
-//# sourceMappingURL=48.b52bf704.chunk.js.map
