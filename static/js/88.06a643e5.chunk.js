@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[88],{1278:function(t,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Telegram.dc961d8d.svg"}}]);
-//# sourceMappingURL=88.06a643e5.chunk.js.map

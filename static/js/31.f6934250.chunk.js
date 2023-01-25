@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[31],{1226:function(t,s,a){"use strict";a.r(s),s.default=a.p+"static/media/ArrowTailRight.7cddb576.svg"}}]);
+//# sourceMappingURL=31.f6934250.chunk.js.map
