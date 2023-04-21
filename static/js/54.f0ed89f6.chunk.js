@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[54],{1246:function(t,n,a){"use strict";a.r(n),n.default=a.p+"static/media/PickleFinance.b40370a0.svg"}}]);
+//# sourceMappingURL=54.f0ed89f6.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[93],{1288:function(t,e,n){"use strict";n.r(e),e.default=n.p+"static/media/ColoredPending.c62d9e42.svg"}}]);
-//# sourceMappingURL=93.192bc93e.chunk.js.map

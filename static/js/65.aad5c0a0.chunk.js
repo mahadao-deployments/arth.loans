@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[65],{1260:function(t,a,n){"use strict";n.r(a),a.default=n.p+"static/media/BentoMenu.1f7afa4a.svg"}}]);
-//# sourceMappingURL=65.aad5c0a0.chunk.js.map

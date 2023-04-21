@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[87],{1282:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/Reddit.fca84acd.svg"}}]);
-//# sourceMappingURL=87.b4ebe001.chunk.js.map
