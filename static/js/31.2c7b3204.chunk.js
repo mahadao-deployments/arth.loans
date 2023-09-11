@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[31],{1016:function(t,n,s){"use strict";s.r(n),n.default=s.p+"static/media/Cryption.65db0055.svg"}}]);
+//# sourceMappingURL=31.2c7b3204.chunk.js.map

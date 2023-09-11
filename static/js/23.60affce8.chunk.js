@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[23],{1008:function(t,s,a){"use strict";a.r(s),s.default=a.p+"static/media/Goerli.ac283704.svg"}}]);
+//# sourceMappingURL=23.60affce8.chunk.js.map

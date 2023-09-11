@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[115],{1307:function(t,s,a){"use strict";a.r(s),s.default=a.p+"static/media/DAI.a119d1ef.svg"}}]);
-//# sourceMappingURL=115.f4da4f0d.chunk.js.map

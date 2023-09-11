@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[13],{1989:function(n,t){},1995:function(n,t){},1998:function(n,t){},2002:function(n,t){}}]);
-//# sourceMappingURL=13.66e27a88.chunk.js.map
